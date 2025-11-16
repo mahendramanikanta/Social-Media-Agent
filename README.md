@@ -1,4 +1,4 @@
-##**Automated Social Media Agent**
+## **Automated Social Media Agent**
 ## 🚀 **Overview**
 
 This project is a fully automated **AI-powered social media agent** designed to handle:
