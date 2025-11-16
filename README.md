@@ -372,10 +372,4 @@ Includes:
 This project is a **complete AI Automation suite** for social media teams:
 auto-replies, trend analysis, content generation, and scheduling — all in one intelligent agent.
 
-This README + workflows provide everything required to:
-
-* Pass the capstone
-* Deploy a production-ready system
-* Impress evaluators with multi-agent + automation design
-
 ---
